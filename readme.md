@@ -111,7 +111,7 @@ legalsys
    - 运行source init.sql建立数据库，初始化表单
 
 3. - 安装JetBrains IntelliJ IDEA Ultimate，https://www.jetbrains.com/idea/download/#section=windows
-   - 高校在读学生的话可以申请教育版，https://www.jetbrains.com/community/education/#students
+   - 可以申请教育版，https://www.jetbrains.com/community/education/#students
 
 4. - 下载安装Maven，http://maven.apache.org/index.html
    - 配置镜像，本地仓库
